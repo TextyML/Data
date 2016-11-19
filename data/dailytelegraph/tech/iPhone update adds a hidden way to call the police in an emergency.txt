@@ -1,0 +1,11 @@
+The feature, spotted in Apple forums, will be included in iOS 10.2, and emerged in beta versions of the operating system for developers. It is likely to be released publicly towards the start of next month.
+
+When pressing the button on the side of the device five times, the iPhone will count down from three and then call the emergency service number in one of 14 countries, including the UK and US. The number in the UK is likely to be 112, the European standard for emergency services that renders the same result as dialling 999.
+
+iPhone users can designate specific emergency contacts, who are sent an alert with location details when the feature is activated.
+
+Emergency SOS was added to the Apple Watch earlier this year. To activate it, users holding down the side button and select the feature to activate it, at which point the Watch will connect to an iPhone to call emergency services and alert emergency contacts. On the iPhone, emergency contacts can be added in the Health app.
+
+The feature is designed as a way for people to be able to discreetly alert emergency services as well as close contacts if they are in trouble.
+
+The iPhone previously had a way to ring emergency services it via Siri with the command “charge my phone 100 per cent”. The voice command was deactivated, possibly since the attention it received made it more obvious.

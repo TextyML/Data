@@ -1,0 +1,37 @@
+Wavebreakmedia / Getty Images ID: 9910477
+
+Nearly half of clinical trials worldwide are never published, according to a new website run by academics at University of Oxford including the data transparency campaigner Dr Ben Goldacre.
+
+
+
+Scientists say the failure to publish medical data harms patients by skewing scientific understanding and preventing doctors from providing the best available treatments.
+
+TrialsTracker found that 11,714 trials out of 25,927 – or 45% – registered in the 10 years to 2014 on ClinicalTrials.gov, the world’s biggest catalogue of clinical trials, had not been published two years later. In total, an estimated 8.7 million patients had enrolled in the trials that had not seen the light of day. The findings are published on the open science platform F1000Research.
+
+Previous research has found that trials that find significant, positive results – trials which show a drug to be effective, for instance – are more likely to be published than trials that show non-significant or no effects. The failure to publish negative trials means scientific literature systematically overstates the effectiveness of treatments.
+
+The worst offender, in terms of total trials unreported, was the French pharmaceutical company Sanofi, which failed to publish the results of 285 out of a total of 435 registered trials. Novartis Pharmaceuticals came second, with 201 unpublished trials, albeit from a larger total of 534. One India-based pharmaceutical multinational, Ranbaxy Laboratories Ltd, had published no results at all for any of the 35 trials it had registered.
+
+Other organisations were more transparent. Shire, an Ireland-based pharma company, published the results of all 96 of its trials. Perhaps surprisingly, the study found that the 20 most transparent organisations – those with the smallest proportion of trials left unpublished – were all pharmaceutical companies, not universities.
+
+Goldacre, one of the academics behind TrialsTracker and a founder of AllTrials, a campaign for transparency in clinical research, told BuzzFeed News: “Doctors, researchers, and patients need the results of clinical trials to make informed choices about which treatments to use.
+
+“When university researchers and drug companies withhold the results of clinical trials we cannot practise evidence-based medicine.”
+
+Sile Lane, the director of campaigns at the pro-science charity Sense About Science, said in a statement that the failure to publish trials betrayed the patients who took part in them. “We should all be outraged that in the last 10 years 8.7 million patients have taken part in trials that haven’t published results,” she said.
+
+“These people volunteered for a clinical trial trusting that whatever was found out in the trial would be shared with doctors and researchers and used to make life better for patients like them.”
+
+Dr Andrew Przybylski, an experimental psychologist at the University of Oxford who is not involved with TrialsTracker, told BuzzFeed News the low percentage of published trials “may reflect the difficulty that researchers face publishing negative or null results”.
+
+“There is pressure to deliver high-impact results,” he said. “This can lead well-meaning researchers to prioritise other projects over those which show mixed or disappointing results.”
+
+He said the findings were important and showed the value of openness in science. “Scientists and the general public fund most scientific research and we deserve to know what holds up and what doesn’t,” he said.
+
+Novartis said in a statement: “We are aware of the TrialsTracker initiative and reviewing against our own records. Initial analysis suggests the data presented is misleading as it focuses on PubMed and clinicaltrials.gov records, but doesn’t include other publication outlets including our own clinical trials results website.
+
+“Novartis has been registering clinical trials on clinicaltrials.gov since 1999. In May 2005, Novartis became one of the first companies to publish interventional clinical trial results within one year of trial completion, regardless of outcome, on a public website, www.novartisclinicaltrials.com. This pre-dates any country regulatory requirement to make trial results public and to date Novartis has posted 2,183 trial results on this platform.
+
+“Novartis is committed to continuing registration and results disclosure as required by applicable regulations in the country or countries in which the research is performed.”
+
+BuzzFeed News has contacted the other companies mentioned in this piece and will include any responses when they arrive.

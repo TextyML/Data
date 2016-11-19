@@ -1,0 +1,19 @@
+WHATSAPP WhatsApp has updated its iOS app to support GIF playback
+
+WhatsApp has updated its iOS app to natively support GIFs for the first time. Users can now send and receive animated pictures – as well as convert videos to GIFs directly within the app. It's the headline feature of WhatsApp version 2.16.15, which also allows iPhone users to send Live Photos and short video clips as GIFs. Unfortunately, there is no native GIF search – like messaging rivals iMessage, Facebook Messenger, Twitter or Slack – so you'll have to leave WhatsApp itself to find a GIF to send. This marks the first time it has been possible for GIFs to play within the app. The news comes as WhatsApp also introduced the ability to embed a previous text in your reply, like a Quote-Tweet on Twitter, and send bold, italic and strikethrough text.
+
+GIPHY • BBC You can finally send and receive GIFs (like this one) natively within the WhatsApp messenger
+
+How to send GIFs in WhatsApp WhatsApp does not include an integrated GIF search, so you'll have to source your image from another app, or a third-party iOS keyboard. GIPHY is one of the most comprehensive GIF search engines available and boasts a number of solid companion apps for iPhone owners, including iMessage integration, a GIF keyboard, and standalone search app. Installing any of these apps is a great way to ensure you always have a suitable GIF to hand. You can search GIPHY for an emotion (Angry, Sad) or a television show (Friends) an actor (Jim Carrey) or fictional character (David Brent, Alan Partridge) to accompany your next text message. Within GIPHY, you can tap the Share icon to send it directly to WhatsApp. This saves you the extra hassle of saving the GIF to your Camera Roll, then loading it from within your chosen WhatsApp conversation or group chat.
+
+GIPHY • ITUNES • WHATSAPP • EXPRESS NEWSPAPERS Tapping the Share icon with the GIPHY app lets you send the animated image to a WhatsApp chat
+
+When the GIF is delivered, the animation can be played directly within the chat window. Enable the GIPHY keyboard by downloading the app from the App Store, then heading to Settings > General > Keyboard > Keyboards > Add New Keyboard. Select GIPHY Keys from dropdown marked Third-Party Keyboards, and then tap on the name in the list and toggle on the option labelled, Enable Full Access. You can now summon the GIPHY Keys keyboard by holding down on the globe icon in the lower left-hand corner of your iOS keyboard and highlighting the name of the app. This lets you search for the GIFs you want without having to leave your chat app – including WhatsApp.
+
+GIPHY • WHATSAPP • APPLE • EXPRESS NEWSPAPERS Enable the keyboard access, then you can send GIFs within WhatsApp
+
+WhatsApp: Hidden Tips, Tricks and Features You Never Knew Mon, June 20, 2016 WhatsApp is the world's most popular messaging app but you probably don't know all of the tricks and features hidden up its sleeve. Here's everything you need to know to master WhatsApp. Play slideshow WHATSAPP • EXPRESS NEWSPAPERS 1 of 10 WhatsApp - Hidden tricks and features you probably don't know, but definitely should be using
+
+How to convert videos to GIFs in WhatsApp Although WhatsApp has not bundled its own GIF search engine within the app, it has included a rather nifty trick to create your own animated images. Any video that's six seconds or shorter can be converted into a GIF within WhatsApp itself. Simply tap on the + symbol on the left hand-side of the keyboard and then tap Photo & Video Library from the menu. Pick the video you want to convert from your camera roll.
+
+WHATSAPP • APPLE • EXPRESS NEWSPAPER Shorter video clips can be converted to GIFs directly within WhatsApp

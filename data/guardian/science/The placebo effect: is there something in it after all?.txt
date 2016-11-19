@@ -1,0 +1,31 @@
+The placebo effect remains one of the most baffling mysteries in medicine. The idea that a useless sugar pill or harmless saline injection could result in a measurable improvement in a patient’s symptoms, sometimes as good as taking an active drug, has been so hard to explain that some have even doubted whether it can be real.
+
+However, there is now evidence showing some people, known as “placebo responders”, do feel or get better after unwittingly, or even wittingly, taking a placebo – and it’s not just psychosomatic. Several studies are pointing to a biological basis for the placebo effect, with the latest research focused on a region of the brain known as the mid-frontal gyrus, which runs along the frontal lobes just above the eyes.
+
+The study, carried out by Marwan Baliki and Vania Apkarian at Northwestern University in Chicago, involved a small number of chronic-pain patients with osteoarthritis of the knee. It is a rare example of a placebo study based on real patients rather than healthy volunteers who are just exposed to pain-inducing experiments to see how they feel when given a placebo.
+
+We pinpointed a brain region, a hotspot or seat, that can predict the propensity of a patient’s response to a placebo Marwan Baliki, Northwestern University, Chicago
+
+Baliki used an MRI scanner to observe in real time how the brain of patients responded to a placebo – in this case a sugar pill instead of a painkiller. In short, he found that an area within the mid-frontal gyrus lit up or, in his own words, “showed a higher functional connectivity” in patients who responded to the placebo, compared with non-responders.
+
+He concluded that this brain region seemed to be quite separate from another region of the brain known to be involved in responding to the effects of real painkilling drugs. In other words, Baliki appeared to have found the “seat” of the placebo effect within the brain.
+
+“In simple terms, we pinpointed a brain region, a hotspot or seat, that can predict the propensity of a patient’s response to a placebo within the wider patient population suffering from chronic pain,” Baliki says. “We also examined the specificity of our results by testing whether this hotspot can predict pain analgesia to an active drug. We found that it does not, suggesting that this brain region is specific for placebo analgesia.”
+
+The findings suggest a biological basis for the placebo effect and raise the prospect of tests to see if individuals are going to be good placebo responders or not. For those who are responders, it could mean targeting them with placebo pain treatments that might work specifically for them. Or it could result in identifying placebo responders so that they don’t get included in clinical trials, which have long been thought to be compromised by them.
+
+
+
+It is not, however, the first time that scientists have identified a brain region involved in the placebo effect. In 2007 for instance Jon-Kar Zubieta, now at the University of Utah, suggested that the nucleus accumbens, which lies at the top of the brain stem, plays a role in moderating pain after injections of a placebo composed of harmless saline solution – at least in healthy volunteers.
+
+Science Weekly podcast: Jim Al-Khalili on the wonders of quantum biology Read more
+
+Other researchers, meanwhile, have focused on identifying the genetic basis of the placebo effect. This is based on the idea that certain signalling pathways in the brain, especially those involved in the “reward” network, help to mediate the placebo effect. The idea is that these signalling pathways are under genetic control and that some people may be blessed with certain combinations of genes that make them more or less responsive to a placebo effect.
+
+Certainly, the more that scientists investigate the placebo, the weirder the effect seems to be. One study earlier this year found that taking a placebo for chronic lower back pain can work effectively for some people even when they are told that the treatment is just a “powerful placebo”.
+
+“Our data suggests that harnessing placebo effects without deception is possible in the context of a plausible rationale,” explained Claudia Carvalho of the ISPA-Instituto Universitario in Lisbon. She found that this kind of “open” placebo reduced initial pain and disability by about 30%.
+
+Another study in 2011 on asthma patients found that placebo inhalers had no effect on increasing lung function. But asthma patients nevertheless reported that they felt significantly better after using a “useless” inhaler – a baffling result to say the least.
+
+But if this is difficult to explain, then what about the “noncebo”, the evil twin of the placebo, where a sugar pill actually makes people feel worse because they expect to suffer the side effects they have heard about? If the placebo effect has a genuine biological basis, with a seat in the brain and its own set of genes, then it’s plausible the same is true for the noncebo. If that is found to be the case, things could get really interesting.

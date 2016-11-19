@@ -1,0 +1,7 @@
+Facebook has admitted that until now its Messenger chat bots have been somewhat rudimentary.
+
+The company, which launched chat bots for Messenger back in April, purposefully prevented users from discovering businesses within the app because the technology wasn’t ready, a top executive has said.
+
+“The first websites were really bad, the first apps were terrible. And the first bots weren’t great either,” David Marcus, vice president of Facebook Messenger, told the Telegraph at technology conference Web Summit.
+
+“We didn’t want to encourage a lot of discovery inside Messenger for experiences that weren’t that good in the early days. But now that has changed we’re providing more discoverability.”

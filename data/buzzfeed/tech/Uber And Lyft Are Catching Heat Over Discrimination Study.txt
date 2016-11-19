@@ -1,0 +1,22 @@
+Chip Somodevilla / Getty Images ID: 9915188
+
+After a study published earlier this week found that ride-hail drivers discriminate against passengers who are black, or have African-American–sounding names, Senator Al Franken has some questions for Uber and Lyft.
+
+“New and emerging technologies have the potential to break down barriers, but we must work to ensure that these advances expand the horizons of all Americans,” Franken wrote in an open letter addressed to Uber CEO Travis Kalanick and Lyft CEO Logan Green. “As the study demonstrates, more can be done to guard against discriminatory behavior. In light of the study’s troubling findings, I would like to better understand your companies’ efforts to address discrimination through platform design and other measures.”
+
+
+
+Franken’s letter goes on to enumerate a list of issues and questions he has about ride-hailing, and the potential for racial discrimination therein. He asks, for example, whether or not the use of profile photos for passengers could be eliminated. Currently, Lyft shows drivers photos of passengers before they choose to accept a ride or not, while Uber doesn’t show rider photos.
+
+The study found, however, that in the case of Uber, black passengers had longer wait times even without the photos if they had African-American sounding names. In his letter, Franken asks whether Kalanick or Green has ever considered “assigning travelers an alphanumeric code in lieu of using names.”
+
+Franken also raises the issue of how Uber and Lyft’s data on driver behavior could be analyzed in order to detect drivers with patterns of discriminatory behavior. “Does your company periodically audit driver behavior? If not, will you develop plans to better detect driver behavior that could signal discriminatory conduct, or adopt a practice of performing periodic audits?” the letter reads.
+
+In June, Airbnb, facing evidence of discriminatory behavior by hosts and a civil rights lawsuit, admitted it had a problem with racial bias and promised it was working to fix it. Its director of diversity, David King, said the company’s “data science teams will closely examine machine learning models and other tech tools we can use to help enforce our anti-discrimination policy.” Though Airbnb has yet to announce whether such a tool has been successfully developed, Franken seems to be suggesting a similar investigation take place at Uber and Lyft.
+
+
+
+Franken’s letter gives Kalanick and Green until Dec. 16 to respond to his questions. Given the public criticism Airbnb received from organizations like the Congressional Black Caucus this summer, it’s safe to assume more voices will weigh in on the ride-hail issue before Franken’s deadline.
+
+When asked for comment on Franken’s letter, Uber replied with the same statement it offered in response to the study earlier this week: “Discrimination has no place in society, and no place on Uber.”
+

@@ -1,0 +1,61 @@
+US military scientists have used electrical brain stimulators to enhance mental skills of staff, in research that aims to boost the performance of air crews, drone operators and others in the armed forces’ most demanding roles.
+
+The successful tests of the devices pave the way for servicemen and women to be wired up at critical times of duty, so that electrical pulses can be beamed into their brains to improve their effectiveness in high pressure situations.
+
+
+
+The brain stimulation kits use five electrodes to send weak electric currents through the skull and into specific parts of the cortex. Previous studies have found evidence that by helping neurons to fire, these minor brain zaps can boost cognitive ability.
+
+
+
+The technology is seen as a safer alternative to prescription drugs, such as modafinil and ritalin, both of which have been used off-label as performance enhancing drugs in the armed forces.
+
+
+
+But while electrical brain stimulation appears to have no harmful side effects, some experts say its long-term safety is unknown, and raise concerns about staff being forced to use the equipment if it is approved for military operations.
+
+
+
+Others are worried about the broader implications of the science on the general workforce because of the advance of an unregulated technology.
+
+
+
+In a new report, scientists at Wright-Patterson Air Force Base in Ohio describe how the performance of military personnel can slump soon after they start work if the demands of the job become too intense.
+
+
+
+“Within the air force, various operations such as remotely piloted and manned aircraft operations require a human operator to monitor and respond to multiple events simultaneously over a long period of time,” they write. “With the monotonous nature of these tasks, the operator’s performance may decline shortly after their work shift commences.”
+
+
+
+But in a series of experiments at the air force base, the researchers found that electrical brain stimulation can improve people’s multitasking skills and stave off the drop in performance that comes with information overload. Writing in the journal Frontiers in Human Neuroscience, they say that the technology, known as transcranial direct current stimulation (tDCS), has a “profound effect”.
+
+
+
+For the study, the scientists had men and women at the base take a test developed by Nasa to assess multitasking skills. The test requires people to keep a crosshair inside a moving circle on a computer screen, while constantly monitoring and responding to three other tasks on the screen.
+
+
+
+To investigate whether tDCS boosted people’s scores, half of the volunteers had a constant two milliamp current beamed into the brain for the 36-minute-long test. The other half formed a control group and had only 30 seconds of stimulation at the start of the test.
+
+According to the report, the brain stimulation group started to perform better than the control group four minutes into the test. “The findings provide new evidence that tDCS has the ability to augment and enhance multitasking capability in a human operator,” the researchers write. Larger studies must now look at whether the improvement in performance is real and, if so, how long it lasts.
+
+
+
+The tests are not the first to claim beneficial effects from electrical brain stimulation. Last year, researchers at the same US facility found that tDCS seemed to work better than caffeine at keeping military target analysts vigilant after long hours at the desk. Brain stimulation has also been tested for its potential to help soldiers spot snipers more quickly in VR training programmes.
+
+
+
+Neil Levy, deputy director of the Oxford Centre for Neuroethics, said that compared with prescription drugs, electrical brain stimulation could actually be a safer way to boost the performance of those in the armed forces. “I have more serious worries about the extent to which participants can give informed consent, and whether they can opt out once it is approved for use,” he said. “Even for those jobs where attention is absolutely critical, you want to be very careful about making it compulsory, or there being a strong social pressure to use it, before we are really sure about its long-term safety.”
+
+
+
+But while the devices may be safe in the hands of experts, the technology is freely available, because the sale of brain stimulation kits is unregulated. They can be bought on the internet or assembled from simple components, which raises a greater concern, according to Levy. Young people whose brains are still developing may be tempted to experiment with the devices, and try higher currents than those used in laboratories, he says. “If you use high currents you can damage the brain,” he says.
+
+
+
+In 2014 another Oxford scientist, Roi Cohen Kadosh, warned that while brain stimulation could improve performance at some tasks, it made people worse at others. In light of the work, Kadosh urged people not to use brain stimulators at home.
+
+
+
+If the technology is proved safe in the long run though, it could help those who need it most, said Levy. “It may have a levelling-up effect, because it is cheap and enhancers tend to benefit the people that perform less well,” he said.

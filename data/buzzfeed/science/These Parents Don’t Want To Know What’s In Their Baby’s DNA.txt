@@ -1,0 +1,55 @@
+Marc Debnam / Getty Images ID: 9816409
+
+Parents are far less interested in decoding their newborn’s DNA than scientists had thought, according to a new study.
+
+Every year, 4 million newborns in the US already get their blood tested for a few dozen genetic glitches that cause rare diseases. Newer tests — known as whole-genome or whole-exome sequencing — can give much more information about hundreds or even thousands of genes.
+
+These sequencing tests are dropping in price, but still expensive at about $1,000 per person. Few healthy babies have been sequenced to date. But as recently as 2013, it seemed that demand for these tests was sky-high: According to a survey of 514 parents in Boston, more than 80% said they were “extremely,” “very,” or “somewhat” interested.
+
+But two years later, when those same parents were asked to actually enroll in a genetic-sequencing program, just 7% signed up. That’s according to the new, unpublished study, dubbed “BabySeq,” presented on Wednesday at the American Society of Human Genetics meeting in Vancouver, Canada.
+
+The huge drop-off rate is likely due to families’ lack of interest and concerns about finding out unpleasant information. These aren’t irrational fears. For example, one of the babies enrolled in the study tested positive for a mutation in the BRCA2 gene that’s linked to increased breast and ovarian cancer risk. The mutation had been passed down from the baby’s mother, who was then told the unexpected news about not only her new child’s risk, but her own.
+
+Although the study is still in progress, its early results suggest that it may be a long time before newborn sequencing becomes routine — and it won’t happen without families having to confront tough choices.
+
+Robert Green Wikimedia / Via commons.wikimedia.org ID: 9816454
+
+Robert Green, a geneticist at Brigham and Women’s Hospital in Boston and one of the BabySeq study’s leaders, believes that genomics will eventually be integrated into every aspect of health care. But not just yet. “At this moment in time, should we be using sequencing with newborns? I really don’t know,” Green told BuzzFeed News.
+
+Green’s team invited the families of 345 babies in the intensive care unit and 2,062 healthy newborns to join the sequencing project. The vast majority didn’t take the next step of seeing a genetic counselor, with half citing logistical hurdles. These sleep-deprived, harried parents were probably (and understandably) reluctant to make follow-up visits to the hospital, Green said.
+
+But dozens of parents also dropped out after meeting with the genetic counselor. About 26% of this group cited confidentiality and privacy concerns, 26% worried about unfavorable or uncertain results, and 17% feared insurance discrimination. Even among the babies in intensive care — whose parents, you might assume, would be more motivated to understand genetic risks — enrollment rate was just 7%, the same as it was in the group of healthy babies.
+
+“I was surprised about that,” Green said. It could be that parents were too stressed about their sick newborns to join a research project that may not have direct relevance to them, he said. “If they’re emotionally distraught, if they’re somewhat overwhelmed at having to come to the hospital, all these things I think impact them.”
+
+Because this type of project hadn’t been done before, Green said his group felt compelled to tell parents about every potential harm, even at the risk of exaggerating some of them. So he wasn’t completely surprised by the low enrollment rates.
+
+Photodisc / Getty Images ID: 9816467
+
+About 50 families so far have received the results of their baby’s genetic sequencing. (The study covered the costs; it’s debatable whether people would be willing or able to pay for such a test in real life.) Dangerous or “likely” dangerous mutations linked to heart diseases showed up in three babies, and to a vitamin deficiency in another baby. Still, these genetic variants are not guarantees of disease, especially since they showed up in healthy, symptom-free infants.
+
+Laura Hercher, a genetic counselor who teaches at Sarah Lawrence College and was not involved with the BabySeq study, told BuzzFeed News that she was shocked at the number of people who enrolled. “These are tiny numbers,” she said.
+
+The results imply that parents are changing their minds after reading the details of “informed consent” documents, which are required in human research studies and spell out the possible consequences and benefits of participating.
+
+“It suggests they’re really finding the informed consent information to be things they hadn’t thought about beforehand, and so that stresses the value of informed consent,” Hercher said.
+
+“Had we not told the mother, we would have been sitting on a finding she was not even aware of — of her own risk of breast and ovarian cancer.” ID: 9816513
+
+Some of the test results have already inspired preventative measures. The baby with the vitamin deficiency-linked mutations, for example, is now taking a dietary supplement as a precaution, Green said. And the baby with the BRCA2 mutation led the researchers to rethink part of their study. Originally they had planned to only reveal variants linked with childhood diseases. This did not include BRCA2, since breast and ovarian cancer occur in adulthood.
+
+But because this information meant the mother was also in danger — a “rare” yet not unprecedented finding — they decided to disclose it, Green said.
+
+“Had we not told the mother, we would have been sitting on a finding she was not even aware of — of her own risk of breast and ovarian cancer,” Green said. The mother was “grateful” to be told, he said, and the researchers are now adjusting the rules of the study to allow for similar situations in the future.
+
+The project raises another ethical dilemma about gene sequencing: Should a parent’s desire to find out their child’s DNA override their child’s freedom to do so on their own?
+
+That’s a question families, bioethicists, and scientists will debate for years to come, said Misha Angrist, a Duke University associate professor who specializes in science policy and was not involved with the BabySeq study.
+
+“People will say, ‘Well, you know when my daughter turns 18, she can decide for herself whether she wants to know that,’” he said. But others will say this is just like getting medical information from an ultrasound. “I think it really comes down to your view of parenting.”
+
+ID: 9817048
+
+5. Pregnant Women Are Finding Out They Have Cancer From A Genetic Test Of Their Babies buzzfeed.com ID: 9817052
+
+6. This Woman Says Her 2-Year-Old Died Because Of A False DNA Test buzzfeed.com ID: 9817075

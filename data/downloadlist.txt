@@ -1,0 +1,550 @@
+[
+    {
+        "name" : "bbc",
+        "categories":
+        [{
+            "name": "economy",
+            "links": [
+                "http://www.bbc.com/news/business-37902922",
+                "http://www.bbc.com/news/business-37891734",
+                "http://www.bbc.com/news/business-37860880",
+                "http://www.bbc.com/news/business-23050597",
+                "http://www.bbc.com/news/business-37906742"
+            ]
+        },
+        {
+            "name": "lifestyle",
+            "links": [
+            ]
+        },
+        {
+            "name": "opinion",
+            "links": [
+            ]
+        },
+        {
+            "name": "politics",
+            "links": [
+                "http://www.bbc.com/news/uk-scotland-37909299",
+                "http://www.bbc.com/news/election-us-2016-37904843",
+                "http://www.bbc.com/news/uk-politics-37870930",
+                "http://www.bbc.com/news/uk-politics-37851551",
+                "http://www.bbc.com/news/uk-politics-37909337"
+            ]
+        },
+        {
+            "name": "science",
+            "links": [
+                "http://www.bbc.com/news/science-environment-37861015",
+                "http://www.bbc.com/news/science-environment-37872111",
+                "http://www.bbc.com/news/science-environment-37823909",
+                "http://www.bbc.com/news/science-environment-37722026",
+                "http://www.bbc.com/news/science-environment-37893804"
+            ]
+        },
+        {
+            "name": "sport",
+            "links": [
+                "http://www.bbc.com/sport/football/37908505",
+                "http://www.bbc.com/sport/basketball/37906636",
+                "http://www.bbc.com/sport/formula1/37861016",
+                "http://www.bbc.com/sport/tennis/37882468",
+                "http://www.bbc.com/sport/rugby-union/37908182"
+            ]
+        },{
+            "name": "tech",
+            "links": [
+                "http://www.bbc.com/news/technology-37908915",
+                "http://www.bbc.com/news/technology-37908919",
+                "http://www.bbc.com/news/technology-37908975",
+                "http://www.bbc.com/news/technology-37903587",
+                "http://www.bbc.com/news/technology-37902613"
+            ]
+        },
+        {
+            "name": "business",
+            "links": [
+                "http://www.bbc.com/news/business-37934201",
+                "http://www.bbc.com/news/business-37914853",
+                "http://www.bbc.com/news/uk-england-37921236",
+                "http://www.bbc.com/news/world-europe-37910431",
+                "http://www.bbc.com/news/business-37893503"
+            ]
+        }]
+    }, {
+        "name" : "guardian",
+        "categories":
+        [{
+            "name": "economy",
+            "links": [
+                "https://www.theguardian.com/business/2016/nov/08/m-and-s-marks-spencer-close-80-stores-major-overhaul",
+                "https://www.theguardian.com/world/2016/nov/06/greek-prime-minister-tsipras-reshuffles-cabinet-to-boost-bailout-reforms",
+                "https://www.theguardian.com/business/2016/nov/07/uk-austerity-policies-amount-to-violations-of-disabled-peoples-rights",
+                "https://www.theguardian.com/business/2016/nov/04/sterling-pound-ftse-currencies-dolalr-donald-trump-brexit-hopes-eu-referendum",
+                "https://www.theguardian.com/business/2016/nov/02/moodys-warns-uk-credit-rating-downgrade-brexit"
+            ]
+        },
+        {
+            "name": "lifestyle",
+            "links": [
+                "https://www.theguardian.com/lifeandstyle/2016/nov/04/delia-smith-christmas-cake-recipe-stephen-bush-delia-project",
+                "https://www.theguardian.com/lifeandstyle/2016/nov/07/everything-you-ever-wanted-to-know-about-migraines-but-were-in-too-much-pain-to-ask",
+                "https://www.theguardian.com/lifeandstyle/2016/nov/07/natural-cycles-fertility-app-algorithm-replace-pill-contraception",
+                "https://www.theguardian.com/lifeandstyle/2016/nov/05/director-josh-appignanesi-new-man-film-wife-pregnancy-new-dad",
+                "https://www.theguardian.com/lifeandstyle/2016/nov/05/parents-posting-about-kids-share-too-much-online-facebook-paula-cocozza"
+            ]
+        },
+        {
+            "name": "opinion",
+            "links": [
+                "https://www.theguardian.com/commentisfree/2016/nov/07/prison-doctor-jails-inmates-addicts-sentences",
+                "https://www.theguardian.com/commentisfree/2016/nov/08/donald-trump-america-muslim-citizens",
+                "https://www.theguardian.com/commentisfree/2016/nov/08/the-crown-portrayal-of-history-insult-to-my-generations-struggles",
+                "https://www.theguardian.com/commentisfree/2016/nov/08/liz-truss-defend-judges-article-50-stood-by",
+                "https://www.theguardian.com/commentisfree/2016/nov/08/john-lewis-haberdashery-wax-prosecco"
+            ]
+        },
+        {
+            "name": "politics",
+            "links": [
+                "https://www.theguardian.com/world/2016/nov/09/estonias-prime-minister-loses-confidence-vote",
+                "https://www.theguardian.com/environment/2016/nov/09/eu-plans-320m-funding-boost-for-budding-ocean-energy-industry",
+                "https://www.theguardian.com/environment/2016/nov/08/eu-drops-plans-to-make-toasters-more-energy-efficient-over-intrusion-fears",
+                "https://www.theguardian.com/world/2016/nov/08/italian-law-requiring-children-to-take-fathers-name-unlawful",
+                "https://www.theguardian.com/politics/2016/nov/08/uk-risks-losing-global-influence-quits-single-market-senior-civil-servant"
+            ]
+        },
+        {
+            "name": "science",
+            "links": [
+                "https://www.theguardian.com/science/2016/nov/07/us-military-successfully-tests-electrical-brain-stimulation-to-enhance-staff-skills",
+                "https://www.theguardian.com/science/2016/nov/07/southern-hemisphere-fastest-to-recover-after-dinosaur-killer-asteroid-study-suggests",
+                "https://www.theguardian.com/science/2016/nov/03/inside-the-brain-of-the-man-who-would-be-blindfold-king-of-chess-timur-gareyev",
+                "https://www.theguardian.com/science/2016/nov/06/placebo-effect-is-there-something-in-it",
+                "https://www.theguardian.com/society/2016/nov/03/dna-study-lays-bare-devastating-damage-caused-by-smoking"
+            ]
+        },
+        {
+            "name": "sport",
+            "links": [
+                "https://www.theguardian.com/football/2016/nov/07/england-sammy-lee-bolton-transfer-deal-appeal-court",
+                "https://www.theguardian.com/sport/2016/nov/07/jon-jones-suspension-ufc-failed-drug-test",
+                "https://www.theguardian.com/sport/2016/nov/08/injury-rules-peter-siddle-out-of-second-test-against-south-africa-in-hobart",
+                "https://www.theguardian.com/sport/2016/nov/05/the-agenda-neymar-and-messi-head-to-head-world-cup-showdown",
+                "https://www.theguardian.com/sport/2016/may/02/mark-selby-world-championshp-ding-junhui"
+            ]
+        },{
+            "name": "tech",
+            "links": [
+                "https://www.theguardian.com/technology/2016/nov/07/hopping-amazon-dash-buttons-",
+                "https://www.theguardian.com/technology/2016/nov/07/emoji-diversity-texting-emojicon-san-francisco",
+                "https://www.theguardian.com/technology/2016/nov/08/samsung-takes-out-full-page-ads-to-apologise-for-note-7-defects",
+                "https://www.theguardian.com/technology/2016/nov/07/google-burying-webmail-service-search-results-protonmail",
+                "https://www.theguardian.com/technology/2016/nov/08/call-of-duty-infinite-warfare-review"
+            ]
+        },
+        {
+            "name": "business",
+            "links": [
+                "https://www.theguardian.com/business/2016/nov/08/toblerone-gets-more-gappy-but-its-fans-are-not-happy",
+                "https://www.theguardian.com/business/2016/nov/08/rbs-facing-400m-bill-to-compensate-small-business-customers",
+                "https://www.theguardian.com/business/2016/nov/08/sports-direct-denies-knowledge-of-secret-camera-filming-mps-shirebrook-warehouse",
+                "https://www.theguardian.com/business/2016/nov/08/m-and-s-marks-spencer-close-80-stores-major-overhaul",
+                "https://www.theguardian.com/business/2016/nov/08/tesco-bank-cyber-raid-unprecedented-financial-regulator-fca"
+            ]
+        }]
+    }, {
+        "name" : "dailyexpress",
+        "categories":
+        [{
+            "name": "economy",
+            "links": [
+            ]
+        },
+        {
+            "name": "lifestyle",
+            "links": [
+                "http://www.express.co.uk/life-style/life/730170/Mum-drinks-sperm-boost-immunity-tracy-kiss",
+                "http://www.express.co.uk/life-style/life/729994/missing-person-arthur-heeler-frood-axminster-devon-this-morning",
+                "http://www.express.co.uk/life-style/life/729962/new-five-pound-notes-ebay-satan-devil",
+                "http://www.express.co.uk/life-style/life/729482/Rugby-Matt-Dawson-son-meningitis-charity-disease-awareness",
+                "http://www.express.co.uk/life-style/life/729570/James-Walker-consumer-champion-telecom-complaints"
+            ]
+        },
+        {
+            "name": "opinion",
+            "links": [
+                "http://www.express.co.uk/comment/beachcomber/729730/Beachcomber-99-years-old-still-stationary-cupboard",
+                "http://www.express.co.uk/comment/columnists/peter-hill/729826/Donald-Trump-US-presidential-election-wins-it-won-t-be-the-end-of-the-world",
+                "http://www.express.co.uk/comment/columnists/carole-ann-rice/729428/Strictly-Come-Dancing-Bake-Off-Michael-Buble-Happy-Mondays",
+                "http://www.express.co.uk/comment/columnists/martin-townsend/729217/Brexit-Article-50-voices-silenced-exploitative-elite-word-editor",
+                "http://www.express.co.uk/comment/expresscomment/726723/NHS-crisis-stretched-999-emergency-services-leave-thousands-without-help"
+            ]
+        },
+        {
+            "name": "politics",
+            "links": [
+                "http://www.express.co.uk/news/politics/730011/Tory-MEP-blasts-ayatollahs-european-integration-european-army",
+                "http://www.express.co.uk/news/politics/729698/Baroness-Scotland-Theresa-May-home-refurbishment-row",
+                "http://www.express.co.uk/news/politics/694804/Chelsea-Clinton-what-does-Hillary-Clinton-daughter-do-facts-Bill-US-Democratic-President",
+                "http://www.express.co.uk/news/politics/729360/Turkey-President-Erdogan-European-Union-EU-Martin-Schulz-terrorism-PKK",
+                "http://www.express.co.uk/news/politics/729207/Brexit-Jeremy-Corbyn-Labour-collude-Remain-MPs-stop-Article-50"
+            ]
+        },
+        {
+            "name": "science",
+            "links": [
+            
+                "http://www.express.co.uk/news/science/729761/Collision-galaxies-HUGE-cosmic-eye-in-the-sky",
+                "http://www.express.co.uk/news/science/727666/END-OF-DEATH-Humans-live-FOREVER-aubrey-de-grey",
+                "http://www.express.co.uk/news/science/727655/WARFARE-Bionic-SPINACH-detect-bombs",
+                "http://www.express.co.uk/news/science/727648/MASS-EXTINCTION-dinosaurs-earth-wwf",
+                "http://www.express.co.uk/news/science/726632/big-bang-universe-black-hole-singularity"
+            ]
+        },
+        {
+            "name": "sport",
+            "links": [
+                "http://www.express.co.uk/sport/rugbyunion/729778/Rugby-Union-England-New-Zealand-Maro-Itoje-Owen-Farrell-Billy-Vunipola-News",
+                "http://www.express.co.uk/sport/football/729911/Liverpool-Transfer-News-Mamadou-Sakho-Talks-Didier-Deschamps-France",
+                "http://www.express.co.uk/sport/football/722159/Next-England-manager-candidates-assessed",
+                "http://www.express.co.uk/sport/rugbyunion/729771/Wales-Shaun-Edwards-Australia-Rugby-Union-News-Cardiff-Ireland-New-Zealand-Warburton",
+                "http://www.express.co.uk/sport/tennis/729351/Andy-Murray-Tennis-Novak-Djokovic-Leon-Smith-David-Nalbandian-Wimbledon-Olympics-Federer"
+            ]
+        },{
+            "name": "tech",
+            "links": [
+                "http://www.express.co.uk/life-style/science-technology/729687/online-passwords-britain-yahoo-leak-password-qwerty-123456",
+                "http://www.express.co.uk/life-style/science-technology/729564/WhatsApp-How-To-Send-GIFs-Convert-Videos",
+                "http://www.express.co.uk/life-style/science-technology/728860/AirPods-UK-Release-Date-Update-Apple-Headphones",
+                "http://www.express.co.uk/life-style/science-technology/728790/New-Macbook-Pro-2016-Apple-Microsoft-laptop-touch-screen",
+                "http://www.express.co.uk/life-style/science-technology/728722/Samsung-Gear-S3-UK-Price-Stock-More-Than-Apple-Watch"
+
+            ]
+        },
+        {
+            "name": "business",
+            "links": [
+                "http://www.express.co.uk/finance/city/729928/marks-and-spencer-shut-60-stores-profits-plunge-80-job-losses",
+                "http://www.express.co.uk/finance/city/729776/City-News-Ryanair-Sainsbury-HSBC-JCB",
+                "http://www.express.co.uk/finance/city/727830/Shell-BP-tighten-belt-over-low-oil-prices-spending-cuts",
+                "http://www.express.co.uk/finance/city/727620/UK-manufacturing-exports-soar-Brexit-economy-boost-weak-pound",
+                "http://www.express.co.uk/finance/city/727517/Lidl-UK-economy-boost-southampton-distribution-centre"
+            ]
+        }]
+    }, {
+        "name" : "dailytelegraph",
+        "categories":
+        [{
+            "name": "economy",
+            "links": [
+                "http://www.telegraph.co.uk/business/2016/11/08/manufacturing-growth-beats-forecasts-as-industry-shows-no-impact/",
+                "http://www.telegraph.co.uk/business/2016/11/08/uk-jobs-market-thriving-after-summer-pause/",
+                "http://www.telegraph.co.uk/business/2016/11/04/strong-germany-bolsters-steady-eurozone-economy/",
+                "http://www.telegraph.co.uk/business/2016/11/02/fed-holds-off-hiking-rates-for-now-as-election-looms/",
+                "http://www.telegraph.co.uk/business/2016/10/27/eus-canada-free-trade-ceta-deal-could-be-back-on-as-walloons-agr/"
+            ]
+        },
+        {
+            "name": "lifestyle",
+            "links": [
+                "http://www.telegraph.co.uk/food-and-drink/drinks/aquavit-this-winters-coolest-drink/",
+                "http://www.telegraph.co.uk/travel/lists/best-exotic-gardens-to-visit-in-winter/",
+                "http://www.telegraph.co.uk/beauty/people/hillary-clinton-used-to-resent-the-obsessive-scrutiny-of-her-loo/",
+                "http://www.telegraph.co.uk/women/family/the-real-life-missing-my-husband-went-for-a-walk-on-holiday-and/",
+                "http://www.telegraph.co.uk/men/thinking-man/until-we-treat-male-and-female-domestic-abuse-victims-the-same-w/"
+            ]
+        },
+        {
+            "name": "opinion",
+            "links": [
+                "http://www.telegraph.co.uk/news/2016/11/08/dont-let-up-on-cutting-the-deficit-chancellor-or-you-will-be-bet/",
+                "http://www.telegraph.co.uk/news/2016/11/07/britain-like-india-has-the-right-and-duty-to-enforce-visa-contro/",
+                "http://www.telegraph.co.uk/women/family/dont-trust-the-natural-birth-myth-the-drugs-do-work---believe-me/",
+                "http://www.telegraph.co.uk/news/2016/11/05/television-on-demand-no-thanks-i-want-more-of-the-shows-that-i-d/",
+                "http://www.telegraph.co.uk/news/2016/11/05/when-the-fight-for-mosul-ends-the-real-battle-for-the-future-of/"
+            ]
+        },
+        {
+            "name": "politics",
+            "links": [
+                "http://www.telegraph.co.uk/news/2016/10/31/us-election-fears-boosting-calls-to-childline-says-nspcc/",
+                "http://www.telegraph.co.uk/news/2016/11/02/sir-john-chilcot-to-be-urged-by-mps-to-apologise-for-inquiry-del/",
+                "http://www.telegraph.co.uk/news/2016/11/02/pension-cold-calling-could-be-banned-within-weeks-government-sug/",
+                "http://www.telegraph.co.uk/news/2016/10/31/raheem-kassam-pulls-out-of-ukip-leadership-race-because-path-to/",
+                "http://www.telegraph.co.uk/news/2016/11/03/home-office-to-crackdown-on-non-eu-migrants-using-the-nhs/"
+            ]
+        },
+        {
+            "name": "science",
+            "links": [
+                "http://www.telegraph.co.uk/news/0/what-is-a-supermoon-and-what-is-the-best-time-to-view-it-tonight/",
+                "http://www.telegraph.co.uk/science/2016/11/02/close-door-buttons-do-work-in-british-liftsbut-not-in-us-elevato/",
+                "http://www.telegraph.co.uk/news/2016/11/02/controlled-explosions-carried-out-in-schools-after-a-level-chemi/",
+                "http://www.telegraph.co.uk/science/2016/11/01/treating-criminals-with-anti-psychotic-drugs-could-prevent-1500/",
+                "http://www.telegraph.co.uk/science/2016/10/31/smartphones-and-tablets-in-bedrooms-disrupt-sleep-even-when-swit/"
+            ]
+        },
+        {
+            "name": "sport",
+            "links": [
+                "http://www.telegraph.co.uk/football/2016/11/08/arsenal-forward-alexis-sanchez-suffers-injury-in-chile-training/",
+                "http://www.telegraph.co.uk/football/2016/11/08/zlatan-ibrahimovic-admits-he-could-have-scored-more-since-joinin/",
+                "http://www.telegraph.co.uk/sport/2016/11/07/the-search-for-the-uks-greatest-ever-sportsperson-starts-now/",
+                "http://www.telegraph.co.uk/racing/2016/11/07/jonjo-oneill-talks-up-more-of-that-for-cheltenham-glory/",
+                "http://www.telegraph.co.uk/sailing/2016/11/07/lack-of-female-skippers-in-this-years-vendee-globe-a-shame-but-w/"
+            ]
+        },{
+            "name": "tech",
+            "links": [
+                "http://www.telegraph.co.uk/technology/2016/11/07/the-gmail-app-finally-lets-you-unsend-embarrassing-emails/",
+                "http://www.telegraph.co.uk/technology/2016/11/08/facebook-messenger-boss-admits-bots-are-a-work-in-progress/",
+                "http://www.telegraph.co.uk/business/2016/11/08/artificial-intelligence-the-next-big-bet-for-online-retailers-sa/",
+                "http://www.telegraph.co.uk/technology/2016/11/08/facebooks-10-year-plan-drones-satellites-and-virtual-reality/",
+                "http://www.telegraph.co.uk/technology/2016/11/08/iphone-update-adds-a-hidden-way-to-call-the-police-in-an-emergen/"
+            ]
+        },
+        {
+            "name": "business",
+            "links": [
+                "http://www.telegraph.co.uk/business/2016/11/08/pfizer-to-close-two-manufacturing-sites-in-uk-with-370-job-losse/",
+                "http://www.telegraph.co.uk/business/2016/11/08/abf-shares-jump-on-unexpectedly-sweet-profits/",
+                "http://www.telegraph.co.uk/business/2016/11/02/avant-homes-reports-soaring-revenues-as-it-demands-government-he/",
+                "http://www.telegraph.co.uk/business/2016/10/28/chinese-investor-eyes-up-high-end-house-builder-cala-homes-for-t/",
+                "http://www.telegraph.co.uk/business/2016/10/14/dcc-buys-tech-storage-distributor-hammer-in-383m-deal/"
+            ]
+        }]
+    },
+    {
+        "name" : "cnn",
+        "categories":
+        [{
+            "name": "economy",
+            "links": [
+                "http://money.cnn.com/2016/11/01/news/economy/hillary-clinton-win-forecast-moodys-analytics/index.html",
+                "http://money.cnn.com/2016/11/09/investing/markets-donald-trump-hillary-clinton/index.html",
+                "http://money.cnn.com/2016/11/09/news/economy/india-rupee-notes-bank-shutdown/index.html",
+                "http://money.cnn.com/2016/11/07/news/economy/california-marijuana-tax/index.html",
+                "http://money.cnn.com/2016/11/08/news/economy/iran-total-south-pars-gas/index.html"
+                
+            ]
+        },
+        {
+            "name": "lifestyle",
+            "links": [
+                "http://edition.cnn.com/2016/11/07/fashion/military-style-invades-fashion/index.html",
+                "http://edition.cnn.com/2016/11/06/design/north-korea-subway-commute/index.html",
+                "http://edition.cnn.com/2016/10/31/arts/wartime-photos-transformed-into-ghostly-fantasies/index.html",
+                "http://edition.cnn.com/2016/10/31/world/van-gogh-ear-slash-motive-trnd/index.html",
+                "http://edition.cnn.com/2016/10/25/architecture/bahai-temple-chile/index.html"
+            ]
+        },
+        {
+            "name": "opinion",
+            "links": [
+                "http://edition.cnn.com/2016/11/07/opinions/changing-conversation-sexual-assault-steiner/index.html",
+                "http://edition.cnn.com/2016/10/28/opinions/the-bathroom-issue-were-not-talking-about/index.html",
+                "http://edition.cnn.com/2016/10/28/opinions/1945-world-series-lauder/index.html",
+                "http://edition.cnn.com/2015/04/29/opinions/david-love-thugs-riot-shaming/index.html",
+                "http://edition.cnn.com/2015/05/13/opinions/love-move-bombing-anniversary/index.html"
+                
+            ]
+        },
+        {
+            "name": "politics",
+            "links": [
+                "http://edition.cnn.com/2016/11/07/politics/nasa-astronaut-space-vote-election-2016/index.html",
+                "http://edition.cnn.com/2016/10/08/world/russia-veto-syria-un-resolution/index.html",
+                "http://edition.cnn.com/2016/04/10/politics/john-kerry-g7-no-apology-hiroshima/index.html",
+                "http://edition.cnn.com/2016/11/08/politics/evan-bayh-todd-young-indiana-senate-election-results/index.html",
+                "http://edition.cnn.com/2016/11/05/politics/girls-on-the-bus-how-things-have-change-gloria-borger/index.html"
+            ]
+        },
+        {
+            "name": "science",
+            "links": []
+        },
+        {
+            "name": "sport",
+            "links": [
+                "http://edition.cnn.com/2016/11/09/tennis/steve-simon-wta-maria-sharapova-drugs-ban-return/index.html",
+                "http://edition.cnn.com/2016/11/08/sport/santiago-lange-cancer-survivor-sailing-awards/index.html",
+                "http://edition.cnn.com/2016/11/02/golf/golf-korea-pak-park/index.html",
+                "http://edition.cnn.com/2016/11/04/sport/valkenswaard-united-gcl-team-champions/index.html",
+                "http://edition.cnn.com/2016/10/22/sport/all-blacks-record-bledisloe/index.html"
+            ]
+        },
+        {
+            "name": "tech",
+            "links": [
+                "http://money.cnn.com/2016/11/04/technology/google-snapchat-investment/index.html",
+                "http://money.cnn.com/2016/11/04/technology/apple-dongle-price-cuts-macbook-pro/index.html",
+                "http://money.cnn.com/2016/11/04/technology/nintendo-nes-classic-edition-review/index.html",
+                "http://money.cnn.com/2016/11/08/technology/hyperloop-dubai-abu-dhabi/index.html",
+                "http://money.cnn.com/2016/11/01/technology/android-google-harry-potter-spells/index.html"
+            ]
+        },
+        {
+            "name": "business",
+            "links": [
+                "http://money.cnn.com/2016/11/08/technology/gopro-karma-recall/index.html?iid=SF_LN",
+                "http://money.cnn.com/2016/11/08/investing/hertz-stock-earnings/index.html?iid=SF_LN",
+                "http://money.cnn.com/2016/11/08/news/tesla-factory-germany-grohmann-engineering/index.html",
+                "http://money.cnn.com/2016/11/09/news/companies/gm-layoffs/index.html?iid=SF_LN",
+                "http://money.cnn.com/2016/11/08/investing/cvs-earnings-stock-walgreens/index.html?iid=SF_River"
+            ]
+        }]
+    },
+    {
+        "name" : "buzzfeed",
+        "categories":
+        [{
+            "name": "economy",
+            "links": []
+        },
+        {
+            "name": "lifestyle",
+            "links": [
+                "https://www.buzzfeed.com/essencegant/muslim-beauty-blogger-new-face-of-covergirl",
+                "https://www.buzzfeed.com/laraparker/we-tried-four-different-eyebrow-gels-to-see-which-one-we-lik",
+                "https://www.buzzfeed.com/tyleriam/my-kings-my-kings",
+                "https://www.buzzfeed.com/juliegerstein/galaxy-makeup-is-exactly-what-we-all-want-this-halloween",
+                "https://www.buzzfeed.com/essencegant/pretty-af-pics-of-nicki-minaj"
+            ]
+        },
+        {
+            "name": "opinion",
+            "links": [
+            ]
+        },
+        {
+            "name": "politics",
+            "links": [
+                "https://www.buzzfeed.com/chrismcdaniel/nebraska-votes-to-bring-back-the-death-penalty",
+                "https://www.buzzfeed.com/darrensands/in-north-carolina-a-final-late-night-effort-to-turn-out-blac",
+                "https://www.buzzfeed.com/aliciamelvillesmith/first-woman-attorney-general-janet-reno-dies-at-age-78",
+                "https://www.buzzfeed.com/jimdalrympleii/the-sagebrush-candidate-mcmullin-wants-the-feds-out-of-the-w",
+                "https://www.buzzfeed.com/chrisgeidner/appeals-court-no-new-anti-voter-intimidation-rules-in-place"
+            ]
+        },
+        {
+            "name": "science",
+            "links": [
+                "https://www.buzzfeed.com/caseygueren/about-that-male-birth-control-study",
+                "https://www.buzzfeed.com/tomchivers/almost-half-of-medical-trials-are-never-published-and-its-hu",
+                "https://www.buzzfeed.com/craigsilverman/can-facebook-trending-fight-off-fake-news",
+                "https://www.buzzfeed.com/stephaniemlee/whats-in-your-babys-dna",
+                "https://www.buzzfeed.com/caseygueren/omg-you-guys-std-rates-are-the-highest-theyve-ever-been"
+            ]
+        },
+        {
+            "name": "sport",
+            "links": [
+                "https://www.buzzfeed.com/juliegerstein/richard-sherman-dressed-as-harry-potter-for-a-press-conferen",
+                "https://www.buzzfeed.com/aliciamelvillesmith/maria-sharapovas-doping-ban-cut-from-2-years-to-15-months",
+                "https://www.buzzfeed.com/claudiakoerner/vin-scully-sweetly-summed-up-his-67-season-career-as-a-sport",
+                "https://www.buzzfeed.com/claudiakoerner/jose-fernandezs-teammate-hit-the-most-heartbreaking-homerun",
+                "https://www.buzzfeed.com/talalansari/marcus-peters-is-the-latest-athlete-to-protest-during-the-na"
+            ]
+        },
+        {
+            "name": "tech",
+            "links": [
+                "https://www.buzzfeed.com/mathonan/the-origin-of-twitters-election-site",
+                "https://www.buzzfeed.com/carolineodonovan/at-emojicon-vibrators-chia-pets-and-a-lesson-about-democracy",
+                "https://www.buzzfeed.com/nicolenguyen/apple-is-dropping-the-price-on-all-of-its-usb-c-ad",
+                "https://www.buzzfeed.com/carolineodonovan/sen-al-franken-racial-bias-uber-and-lyft",
+                "https://www.buzzfeed.com/alexkantrowitz/vine-co-founders-new-app-hype"
+            ]
+        },
+        {
+            "name": "business",
+            "links": [
+                "https://www.buzzfeed.com/coralewis/mcdonalds-settles-labor-lawsuit-with-800-franchise-workers",
+                "https://www.buzzfeed.com/leticiamiranda/study-claims-pattern-of-discrimination-on-uber-based-on-race",
+                "https://www.buzzfeed.com/leticiamiranda/samsung-washer-machine-recall",
+                "https://www.buzzfeed.com/matthewzeitlin/payday-loans-in-south-dakota",
+                "https://www.buzzfeed.com/coralewis/on-demand-deliver-workers-alliance"
+            ]
+        }]
+    },
+    {
+        "name" : "huffington",
+        "categories":
+        [{
+            "name": "economy",
+            "links": [
+            ]
+        },
+        {
+            "name": "lifestyle",
+            "links": [
+                "http://www.huffingtonpost.com/entry/victorias-secret-fashion-show-x-swarovski-outfit-see_us_58220451e4b0334571e0a1ea",
+                "http://www.huffingtonpost.com/entry/how-to-treat-every-type-of-acne_us_58220617e4b044f827a79387",
+                "http://www.huffingtonpost.com/entry/how-to-get-rid-of-beard-related-pimples_us_5820e1e4e4b044f827a7917e",
+                "http://www.huffingtonpost.com/rani-st-pucchi/what-does-your-style-say-_b_12802718.html",
+                "http://www.huffingtonpost.com/entry/hands-down-these-are-the-worst-shoes-for-your-feet_us_581bad9ee4b01022624114ba"
+            ]
+        },
+        {
+            "name": "opinion",
+            "links": [
+                "http://www.huffingtonpost.com/zac-thompson/president-donald-trumps-acceptance-speech_b_12877042.html?utm_hp_ref=outspeak",
+                "http://www.huffingtonpost.com/zac-thompson/lgbt-and-muslim-people-ar_b_12867230.html",
+                "http://www.huffingtonpost.com/outspeak/everything-you-need-to-know-clowns_b_12740036.html",
+                "http://www.huffingtonpost.com/outspeak/heres-some-creepy-cats-for_b_12737688.html",
+                "http://www.huffingtonpost.com/zac-thompson/american-politics-is-a-du_b_12576096.html"
+            ]
+        },
+        {
+            "name": "politics",
+            "links": [
+                "http://www.huffingtonpost.com/entry/canada-immigration-trump-president_us_58229b95e4b0e80b02cdcdad",
+                "http://www.huffingtonpost.com/entry/election-day-marijuana-votes_us_5822e05ae4b0aac6248854e6",
+                "http://www.huffingtonpost.com/entry/john-mccain-arizona-senate_us_581b7476e4b07cfea321b70d",
+                "http://www.huffingtonpost.com/entry/california-gun-law_us_5818e50ae4b00f11fc5c22aa",
+                "http://www.huffingtonpost.com/entry/pramila-jayapal-wins_us_5820ed1be4b0e80b02cc0193"
+            ]
+        },
+        {
+            "name": "science",
+            "links": [
+                "http://www.huffingtonpost.com/entry/kendall-jenner-sleep-paralysis_us_580a2833e4b0cdea3d86e413",
+                "http://www.huffingtonpost.com/entry/supermoon-watch_us_581a04e6e4b0a76e174c3538",
+                "http://www.huffingtonpost.com/entry/un-climate-change-report_us_582214dfe4b0d9ce6fbf0bcc",
+                "http://www.huffingtonpost.com/entry/dad-calls-out-needlessly-gendered-label-on-space-themed-lunch-box_us_581b569ae4b0c43e6c1e7ce9",
+                "http://www.huffingtonpost.com/entry/sexual-pleasure-trance_us_581a0950e4b01f610e395c14"
+            ]
+        },
+        {
+            "name": "sport",
+            "links": [
+                "http://www.huffingtonpost.com/entry/stephen-curry-record-breaking-3-pointers_us_5821b957e4b0e80b02cc752d",
+                "http://www.huffingtonpost.com/entry/chris-boswell-onside-kick_us_582075c7e4b0aac624856c2d",
+                "http://www.huffingtonpost.com/entry/snl-chicago-cubs-bill-murray_us_581ee15ce4b0aac62484faa7",
+                "http://www.huffingtonpost.com/entry/happiness-personified_us_581cf1dfe4b0d9ce6fbc12a8",
+                "http://www.huffingtonpost.com/entry/cleveland-indians-world-series-loss-fans_us_581bbc16e4b0d9ce6fbaed20"
+            ]
+        },
+        {
+            "name": "tech",
+            "links": [
+                "http://www.huffingtonpost.com/entry/slack-microsoft-open-letter_us_581a0e66e4b01f610e396815",
+                "http://www.huffingtonpost.com/entry/this-dell-laptop-never-worked-how-about-a-refund_us_581f553ce4b0334571e09d7c",
+                "http://www.huffingtonpost.com/brian-de-haaff/the-culture-behind-leadin_b_12776284.html",
+                "http://www.huffingtonpost.com/entry/facebook-growth_us_581a69e0e4b0c43e6c1de937",
+                "http://www.huffingtonpost.com/entry/aol-youve-got-mail-uber-driver-elwood-edwards_us_58209c4ce4b0e80b02cb3ecd"
+            ]
+        },
+        {
+            "name": "business",
+            "links": [
+                "http://www.huffingtonpost.com/entry/walgreens-sues-theranos_us_582249b6e4b0d9ce6fbf87e0",
+                "http://www.huffingtonpost.com/nerdwallet/virtual-reality-how-tech_b_12870624.html",
+                "http://www.huffingtonpost.com/yatin-khulbe/the-startling-decline-of-_b_12796210.html",
+                "http://www.huffingtonpost.com/burgerbusiness/mcdonalds-drops-create-yo_b_12802598.html",
+                "http://www.huffingtonpost.com/al-norman/wal-marts-astounding-shop_b_12778376.html"
+            ]
+        }]
+    }
+]

@@ -1,0 +1,32 @@
+Ryan Carver / Via Flickr: 47882233@N00 ID: 9942817
+
+In September 2008, Twitter was at a tipping point and a time of great transition. Once a plaything of techies and bloggers, it was now a tool that was being rapidly adopted by corporations, celebrities, politicians, and the media. Twitter had 2.5 million users, according to the company at the time, and was growing rapidly — so rapidly that its Fail Whale icon had become a monument to its struggle to keep up. Meanwhile, Twitter was transitioning from desktop to mobile. It was trying to figure out how to monetize, and how to tap into the already-vast river of information flowing through its servers.
+
+One way Twitter thought it might do that was by surfacing conversations taking place around key current events. And in the Fall of 2008, no conversation was hotter than the one occurring around the US Presidential election. For Twitter, that election was a big deal and, in many ways, a defining moment. The company had record traffic day on election day — 1.8 million tweets — and the mood at its headquarters as returns rolled in on November 4 was electric.
+
+This is the story (taken from a larger feature written for WIRED that never ran) of how Twitter first built out a site to take advantage of those election-related conversations, and to showcase them in a way that would let anyone —Twitter user or not — see what people were saying. The URL for that site — election.twitter.com — will go live again tonight; it’s where BuzzFeed News will broadcast our live election news show (a first for us).
+
+Within just a few weeks of the events described below, Twitter would oust then CEO Jack Dorsey, and replace him with another co-founder, Ev Williams. And with that, Twitter’s first era — one defined by the desktop, Dorsey, and a historic election —would come to a close. Tonight, as Twitter is again helmed by Dorsey and we stand on the precipice of another historic election, it seemed like a good time to look back at where it all began.
+
+ID: 9943179
+
+Ev Williams is bored out of his shoes. The 37-year-old cofounder of Twitter is sitting at the head of a table in his San Francisco offices, clad in a T-shirt, blue jeans, and striped socks. He is surrounded by seven Twitter employees — techies, engineers, support staff. It has been two long years since launching the microblogging tool that lets users broadcast 140-character messages to networks of followers, and during that time the service has grown from a curiosity to a full-fledged communications platform. It has been an exciting process, but it has also led to some not-so-exciting usability issues, the kind that need to be hammered out in long, dull meetings. Meetings like this one.
+
+
+
+The subject today: spam. Mass marketers and search engine optimizers are signing up for accounts, duping users into following them and then sending out barrages of useless links. Twitter staffers dive eagerly into the intricacies of the problem. They discuss how to freeze accounts that add too many followers too rapidly. They weigh whether they should enable people to rank one another by reputation. And they toss around the best ways to identify and filter out links that lead to known spam sites. “We could also use that as a freedom-and-democracy filter when we expand into China,” a product manager named Jason Goldman jokes.
+
+The room fills with laughter, but Williams remains silent. As the meeting pushes past the hour mark, he folds his legs beneath him and squats in his chair. He plunges his face into his hands, rubs his eyes, and sighs loudly. He checks his BlackBerry. After about 90 minutes, he abruptly announces he has another meeting and hustles out.
+
+Williams pops into a conference room next door, where Jeffrey Veen awaits. It’s early September, and everyone’s minds are on the upcoming election. Twitter, aiming to capitalize on the excitement, has contracted Veen, a storied Web architect, to build election.twitter.com. Veen and his team have been at it for a couple of days, and now he is ready to show some mock-ups. The idea is to filter election-related posts from Twitter’s raw feed, and display them in a real-time stream.
+
+A constantly updated flow of political posts will cascade down the center of the screen, while tables and graphs will show which candidates are generating the most chatter. Ultimately, the site could be hugely useful for tracking how the news of the day affects what people are saying about the candidates in real time; an immersive CAT scan of the political hive mind. It’s very slick stuff.
+
+Williams is not bored anymore; quite the opposite. His eyes bulge, and a goofy grin spreads across his face. He jumps up to sketch ideas on the whiteboard. And this time, when Veen tries out a rather bland joke (“One thing we found: No one talks about Joe Biden”) Williams laughs uproariously.
+
+You can’t blame Williams for preferring Veen’s gee-whiz performance to the plodding anti-spam meeting. It is much more fun to ponder Twitter’s potential to reshape modern communication than to deal with the nuts-and- bolts details of creating a safe and secure platform.
+
+ID: 9943189
+
+In the 2016 election cycle, instead of spam and Fail Whales, Twitter found itself struggling with sluggish growth and online harassment. Yet, despite that, it remained at the center of the election, driving news of the day and serving as a vital information hub. This evening, election.twitter.com is live once again, home to BuzzFeed News and Twitter’s live Election Night special - “We Did It, America.”
+
